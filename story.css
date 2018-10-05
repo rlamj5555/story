@@ -1,0 +1,46 @@
+@charset "utf-8"; 
+@import url(http://ts.daumcdn.net/custom/blog/0/606/skin/images/nanumgothic.css);
+
+#wrap{ width: 1516px; font-family: '함초롬바탕';}
+
+audio{width: 300px; height: 50px;}
+
+header{width: 1516px; height: 40px; font-family: 'nanumgothic'; background-color: black;}
+
+header>ul.tp_bar>li>a{display: inline-block; float: right; margin-right: 20px; margin-top: 8px; width: 80px; height: 25px; font-size: 20px;color: black; font-weight: 600;text-align: center; line-height: 24px; background-color: white; border-radius: 10%}
+
+
+p.info{text-align: right; margin-right: 20px; margin-top: 235px; color: rgba(255,255,255,0.6); line-height: 16px;}
+ul.tp_bar>li>a:hover{color: white; background-color: crimson; }
+
+section{width: 1516px; height: 666px; overflow-y: scroll; }
+
+footer{padding-top: 4.2px; width: 1516px; height: 40px; color: rgba(255,255,255,0.6); text-align: center; background-color: black;}
+
+div.mid{height: 684px; text-align: center; line-height: 64px; border: 1px solid transparent; background-image: url(./images/IMG_6435_Moment_black_3.jpg); background-repeat: no-repeat; background-position: center; background-size: cover }
+
+div.mid>h1.title{margin-top: 250px; color: white; font-size: 45px; font-weight: 100;}
+div.mid>h2.subtit{color: white; font-size: 45px; font-weight: 100;}
+span.tit_crimson{color: crimson; font-weight: 600; background-color:rgba(0,0,0,0.7);}
+
+div.sound,div.hobby{margin-left: 10px;text-align: left;}
+
+h2.tit{margin-top: 40px; margin-left: 120px; color: black; font-size: 40px; font-weight: 100;  text-align: left;}
+
+h2.sound_tit{margin-top: 30px; margin-left: 160px; margin-bottom: 50px;color:  crimson; font-size: 37px; font-weight: 100; }
+h3.sound_tit{margin-top: 30px; margin-left: 160px; margin-bottom: 40px;color: black; font-size: 30px; font-weight: 100;line-height: 35px; }
+
+h3.sound_tit+p.desc{font-size: 15px; line-height: 25px; margin-bottom: 30px; margin-left: 180px; margin-right: 180px;}
+
+
+
+
+span.red{font-size: 23px; color: crimson;}
+span.under{font-weight: 800;}
+
+
+
+
+footer>span>a>img{position: relative; top: -30px; right: 10px; float: right; width: 30px; height: 30px;}
+
+
