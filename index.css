@@ -140,3 +140,8 @@ p.code{display: inline-block;width: 800px; height: 300px; overflow-y: scroll; fo
 span.btn>a{display: block; margin-bottom: 40px; margin-left: 1100px;  padding-top: 40px; padding-left: 10px; width: 200px; height: 100px; color:white;font-size: 22px; font-weight: 100; line-height: 23px; background-color: grey; }
 
 span.btn>a:hover{background-color: crimson;}
+
+h6.sugang{margin-top: 50px; margin-left: 160px; margin-bottom: 15px;color:  black; font-size: 18px; font-weight: 800; }
+h6.sugang+p.desc{font-size: 15px; line-height: 25px; margin-bottom: 30px; margin-left: 180px; margin-right: 180px;}
+
+
